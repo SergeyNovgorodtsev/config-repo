@@ -1,7 +1,7 @@
 spring:
   data:
     mongodb:
-      host: "host.docker.internal"
+      host: "mogodb-container"
       username: "admin"
       password: "password"
       database: "mongodb"
