@@ -23,7 +23,3 @@ spring:
 mongock:
   change-logs-scan-package:
     - ru.sergey.employeeService.migrations
-eureka:
-  client:
-    service-url:
-      defaultZone: http://service-discovery:8761/eureka
